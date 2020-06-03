@@ -9,3 +9,5 @@ For more details access https://github.com/hebamosafa/HealthApp/blob/master/Soft
 * Notification system.
 * Search engine
 * Patients management.
+## Note:
+This app is in development state.
