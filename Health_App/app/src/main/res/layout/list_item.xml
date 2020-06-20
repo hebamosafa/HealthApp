@@ -1,0 +1,37 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/layout"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    tools:background="@drawable/background"
+    android:padding="16dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_person"
+        android:paddingLeft="5dp"/>
+
+    <TextView
+        android:paddingLeft="30dp"
+        android:id="@+id/patient_age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|start"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="monospace"
+        android:text="hebab"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+    <!--COMPLETED (1) Add a TextView with id "@+id/tv_view_holder_instance-->
+    <!--COMPLETED (2) Set the style to @style/TextAppearance.AppCompat.Title-->
+    <!--COMPLETED (3) Set the width and the height to wrap_content-->
+    <!--COMPLETED (4) Align the TextView to the end of the parent-->
+    <!--COMPLETED (5) Align the TextView in the center vertically-->
+    <!--COMPLETED (6) Set the font family to monospace-->
+    <!--COMPLETED (7) Set the text color to "#000"-->
+
+
+</FrameLayout>

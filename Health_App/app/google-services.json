@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "351037924720",
+    "firebase_url": "https://heleath2.firebaseio.com",
+    "project_id": "heleath2",
+    "storage_bucket": "heleath2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351037924720:android:f75ea6cf699f82ff0fdbb5",
+        "android_client_info": {
+          "package_name": "com.example.future.healthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351037924720-c179lsl4iu9mg3beh345dq02svj6fklr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.future.healthapp",
+            "certificate_hash": "c8843c4d73c1c8fdda2640681ab6884ebed1a925"
+          }
+        },
+        {
+          "client_id": "351037924720-ra0vugnp871pvr69vb48ke8jfetbtre9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.future.healthapp",
+            "certificate_hash": "82a812c59feee28e35cd7db69719e5a0ebbc84e8"
+          }
+        },
+        {
+          "client_id": "351037924720-v91uo2ghvo78rnonh57910tnqgi44dji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDISHRuRekcQIGpxfMgIvvlFzgxdMuYZtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351037924720-m2oefmdr7ldocrd54slc4v25ham6t9em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
