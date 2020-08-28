@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.health.ScrollingActivity">
+
+    <item
+        android:id="@+id/action_Data"
+        android:orderInCategory="200"
+        android:title="Data"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_reload"
+        android:orderInCategory="200"
+        android:title="reload"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_autorenew_black_24dp"/>
+
+</menu>

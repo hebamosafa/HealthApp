@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_reload"
+        android:orderInCategory="3"
+        android:title="reload"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_autorenew_black_24dp"/>
+
+    <item
+        android:id="@+id/form"
+        android:orderInCategory="2"
+        android:title="User"
+        android:icon="@drawable/formadd"
+        app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/app_bar_search"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:orderInCategory="1"
+            android:title="Search"
+            app:showAsAction="ifRoom"
+            app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+
+
+
+</menu>
