@@ -1,4 +1,4 @@
 # HealthApp
 Kindly check these docs below:
-Documentation/Software Requirements Specification.docx
-Documentation/THE FIREBASE REALTIME DATABASE.docx
+[Health App SRS] (Documentation/Software Requirements Specification.docx)
+[THE FIREBASE REALTIME DATABASE] (Documentation/THE FIREBASE REALTIME DATABASE.docx)
